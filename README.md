@@ -2,10 +2,9 @@
 
 ![Header](https://github.com/m3h3mm3dd/m3h3mm3dd/raw/main/github-header-image.png)
 
-
 > _"Code the future you want to live in."_  
 
-Hey, I’m **Mahammad**, a Computer Science student from **Azerbaijan**, currently based i **Germany**. I’m passionate about building innovative tech solutions and shaping the future through code. 🚀 Whether it's AI, algorithms, or UI/UX design, I'm all about **pushing the boundaries** and **embracing new challenges**. 🌌 
+Hey, I’m **Mahammad**, a **Computer Science** student from **Azerbaijan**, currently based in **Germany**. I’m passionate about building innovative tech solutions and shaping the future through code. 🚀 Whether it's **AI**, **algorithms**, or **UI/UX design**, I'm all about **pushing the boundaries** and **embracing new challenges**. 🌌 
 
 ---
 
@@ -26,6 +25,11 @@ Hey, I’m **Mahammad**, a Computer Science student from **Azerbaijan**, current
 - Advanced **data structures & algorithms** with C++.  
 
 ---
+## ⏱️ **This Week I Spent My Time On**  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
+
 
 ## 🎨 **Futuristic Projects**
 ✨ **Smart Expense Tracker** (HTML, CSS, JavaScript)  
@@ -52,6 +56,11 @@ A professional portfolio website showcasing my skills, projects, and vision.
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m3h3mm3dd@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m3h3mm3dd/)
 
+---
+
+## ☕ **Support Me**
+If you like what I do, maybe consider buying me a coffee/tea!  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/m3h3mm3dd)
 
 ---
 

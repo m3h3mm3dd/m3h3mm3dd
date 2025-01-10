@@ -1,6 +1,7 @@
 # 👾 Welcome to My GitHub | m3h3mm3dd 🚀
 
-![Header](https://user-images.githubusercontent.com/m3h3mm3dd/banner-image.png)
+![Header](https://github.com/m3h3mm3dd/m3h3mm3dd/raw/main/github-header-image.png)
+
 
 > _"Code the future you want to live in."_  
 

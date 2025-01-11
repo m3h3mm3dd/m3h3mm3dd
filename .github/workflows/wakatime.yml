@@ -13,5 +13,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
-          README_PATH: "README.md"  
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          SECTION_NAME: "waka" 
+          COMMIT_MESSAGE: "Updated WakaTime stats in README"  

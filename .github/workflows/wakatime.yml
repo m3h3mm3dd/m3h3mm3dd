@@ -1,18 +1,25 @@
-name: Work Stats Readme
+name: WakaTime Readme Stats
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"  # Runs every 2 hours
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  update-wakatime:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
-          SECTION_NAME: "waka" 
-          COMMIT_MESSAGE: "Updated WakaTime stats in README"  
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: "waka" # This matches your README.md
+          TIME_RANGE: "last_7_days" # Optional: last_7_days, last_30_days, or all_time
+          SHOW_TITLE: true         # Optional: Show "This Week I Spent My Time On"
+          LANG_COUNT: 5            # Optional: Number of languages to display
+          SHOW_TOTAL: true         # Optional: Show total coding time

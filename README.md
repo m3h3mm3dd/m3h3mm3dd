@@ -25,11 +25,6 @@ Hey, I’m **Mahammad**, a **Computer Science** student from **Azerbaijan**, cur
 - Advanced **data structures & algorithms** with C++.  
 
 ---
-## ⏱️ **This Week I Spent My Time On**  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
----
-
 
 ## 🎨 **Futuristic Projects**
 ✨ **Smart Expense Tracker** (HTML, CSS, JavaScript)  
